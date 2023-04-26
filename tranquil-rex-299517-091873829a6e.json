@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tranquil-rex-299517",
+  "private_key_id": "091873829a6e0e0292edf0ff41500b4b5165e91d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCy6Z2QuSQFARDb\nwclkCkVmsJI/KoAM4OnM7rBINCW4DKGqtp/tP6KEm1KhrMRxmjMFQgACmOSv9PMG\nXITZ1RdVRgHDCZhLY+i5zAbPeGht8J1ili9JyDFK67bepI/1GyQAVE7H4AQlwxq8\nwlvnnGqgTAlCsB5Tilvqkd/uf3xGw72mHlN42dVCbY1dfqa2tdgFh6LaE7hYiVqj\nOt1lHdOE2p26Pl638Wd0HvXZQnAsptZecREeQ5jxwutX7Q1cxVlE6RZWlhajFJ+4\n7u0ss8tyOoneFR1qTSdL8Y4AWnv+tLatC7U3GqhbFV0X3f8AtMCgB9OiMkPjG0AI\nIKkdER25AgMBAAECgf9nWEqLrmX//f2e8vFBuC0ehB/2HLaaudBTcAyjqHuhNKqt\n0Y/Pm1JlBtNUUFeox0lxYA5hca+nc/ZtVkPnEA/KUgXygzhVVAC6UgAdF5A68SH4\nMIhgNiNDA6U+NhBxpJvHFOvsyJmctnZbUmmD//YXYdR3kQPzfZhahqizOzCuLqi5\nt/Y93ys3YEp7rZKsAPiiPH7XOdkdg/jYbXk4MrkPnjRre7JXwJDj5ar5GyE2MXmX\nUZd690rhmjQ9pD29s0QY90Y8A/T6ADB/GEDV7T/PhnbtBKfrye2h+d/E3ROg1wOr\nUl+GI5Vlpjc7hl8k0B1KmVfZvpdgK/UDnWJvN0ECgYEA+jDONR+sWLlX2AJBGiAJ\nOEBpv4lJy/bGp6ZkPFqTp/kX3QkW1gzzRCqiRW4ZCG9QP1YCe+1C7n0thj19bUwg\nKdt25b53Alb7S6OI6aiLvVzAYEDJmsTxwj7kfn7LxcnxHZa3hbWPi54bjK+1wIfp\n3tocX5af8WHm2i49uu4jhHkCgYEAtxEdlvOKsWaZe5rqWtw40byIyCHhLxdWyACw\n2zbSHT9uVG1QA+JDU7rxqRG/aHzw/fq5I+4JENw0TOv2Ck3Fap9cVsQyqByQfklG\na4IdFouWrwA4G/YrZg1u3HHIG7YZQvHTI3A14ZlMt0r1pIlaH7LwoVwi+jjnpjuT\nCcwTk0ECgYBYQBDsojB711zJ//mQyo4V/nqOqlGSlYh7KHEg7N46mN23BPa+KDFC\n8Trt/Kjt1b3bqW4U4psCXrtJJ7VvcTPDL/ufjHCULbRUeOnZaa9o6yecjB3Q7vlM\nCD029WjRaqsXQcuYaXOpzupu1KfqssZm6k6p1Qqz7VGt0jPKFSgIGQKBgDl762Gy\nGdP41qskiwB69HCPlhfZ457o4jwtU1uSjEnY2Ck0phKCIwgQxL+FLih+SyJFb4tj\nvH8J1nZtBbZYk2wWnGU2eH2ncovlMHKjycSBkpBjLjtBgoEqKKyaIe7psGcADn+r\nRZAQljFcHWRMKPuZMcxJZUZTRhJB1LsX1PHBAoGATBG0RLuL2oncRFXV3w6+WqVs\nCJGVZ3SUdATETExQj1vt1o3PT+kkZOjR5E17OmOhYgSCmoYrjRZlN/Q1gFiinY2j\n0GeG0RDcFS0cB+ryRRCwBzIPx46uZ9TXXtrptutAvitdBRJPDv++avhsIzHeqWyt\n0R+kjD5/3Y6TxuNbJMo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wellnessdayfetch@tranquil-rex-299517.iam.gserviceaccount.com",
+  "client_id": "110687068973305153266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wellnessdayfetch%40tranquil-rex-299517.iam.gserviceaccount.com"
+}
