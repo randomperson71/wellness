@@ -14,7 +14,8 @@ client = gspread.authorize(creds)
 def home():
     if request.method == 'POST':
         # Get the value of numberFind from the form
-        numberFind = request.form['numberFind']
+        numberFind = request.form['numberFind'] 
+        numberFind = numberFind.replace(" ", "")
 
         # Open the sheet and find the cell with the value
         sheet_name = 'copy71'
